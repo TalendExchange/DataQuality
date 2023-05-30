@@ -1,3 +1,12 @@
+This repository hold the content of exchange.talend.com as a public archive.
+
+The export was taken on May 20th.
+
+If you have any inquiries you can reach out on: exchange-migration (at) talend.com 
+
+New components / content will be handled via community.talend.com
+
+
 # Data Quality
  * <a href='./archive/Chris Klaus/components/Latitude/readme.md'><img src='./archive/Chris Klaus/components/Latitude/logo.jpg' width='20' height='20'> Latitude</a> by <sup><sub><a href='./archive/Chris Klaus/readme.md'>Chris Klaus</a></sub></sup> :white_check_mark: Compatible with Talend 7.x / 8.x  - 2019-10-30 :arrow_heading_down: 11
  * <a href='./archive/gpegliasco/components/Pyramids of ages/readme.md'><img src='./archive/gpegliasco/components/Pyramids of ages/logo.jpg' width='20' height='20'> Pyramids of ages</a> by <sup><sub><a href='./archive/gpegliasco/readme.md'>gpegliasco</a></sub></sup> :warning: Compatibility not known - 2016-04-01 :arrow_heading_down: 17
